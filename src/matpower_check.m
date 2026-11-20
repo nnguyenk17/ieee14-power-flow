@@ -1,5 +1,4 @@
 % MATPOWER check for the IEEE 14-bus case
-% Author: Nguyen Nguyen
 %
 % Solves the same IEEE 14-bus load flow in MATPOWER (MATLAB) and prints the
 % values I compare with my pandapower (Python) results.
